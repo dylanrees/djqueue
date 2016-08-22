@@ -13,3 +13,9 @@ Here's what you'll do:
 Sometime you'll listen to the same artist for a while, so I'll eliminate the posibility of playing the same artist twice in a row.
 
 There should probably be a feature that avoids re-using the same song played at the same time in the future.  just in case you use a partially-updated version of the same playlist
+
+===resources for later===
+
+https://docs.python.org/2/howto/curses.html
+
+https://wxpython.org/screenshots.php
