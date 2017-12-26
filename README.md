@@ -6,6 +6,7 @@ mpd (music player daemon) and the program would pass commands to it via mpc.
 
 ## music suggestion backend
 for each song, it suggests the best song to play next.  probably at first it just relies on counts of which songs you tend to listen to after which others.  after that maybe it gets move complex, incorporating machine learning.
+probably it's based on bayesian inference on the data, [done in python](http://www.bayespy.org/). 
 
 ## frontend
 
