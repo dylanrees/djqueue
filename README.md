@@ -1,6 +1,8 @@
 Just a little something I'm playing around with.
 The idea is the following: create a program that suggests new music to listed to out of your own music library based on what you have been listening to.
 
+[how music recomendation works - and doesn't work](https://notes.variogr.am/2012/12/11/how-music-recommendation-works-and-doesnt-work/)
+
 ## music player backend
 mpd (music player daemon) and the program would pass commands to it via mpc.
 
